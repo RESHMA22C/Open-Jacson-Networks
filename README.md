@@ -17,7 +17,14 @@ Visual components and Python
 
 ## Program
 
+<img width="814" height="776" alt="image" src="https://github.com/user-attachments/assets/22caa0a4-5330-432a-9e09-26747fccf063" />
+
 
 ## Output
 
+<img width="711" height="379" alt="image" src="https://github.com/user-attachments/assets/9ac5901f-4def-4153-bc04-104d24de6e7b" />
+
+
 ## Result
+
+The average number of material in the system and in the conveyor and waiting time are successfully found.
